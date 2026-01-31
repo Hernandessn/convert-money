@@ -66,29 +66,6 @@ convert-money/
 
 ---
 
-## 🚀 Como Executar
-
-### Online
-[Link do deploy aqui]
-
-### Localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/Hernandessn/convert-money.git
-
-# Entre na pasta
-cd convert-money
-
-# Abra o index.html no navegador
-# Ou use um servidor local
-python -m http.server 8000
-```
-
-Acesse `http://localhost:8000` no navegador
-
----
-
 ## 💻 Como Usar
 
 1. Digite o valor em **Reais (R$)** no campo de entrada
