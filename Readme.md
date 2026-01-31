@@ -75,7 +75,7 @@ convert-money/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/hernandessn/convert-money.git
+git clone https://github.com/Hernandessn/convert-money.git
 
 # Entre na pasta
 cd convert-money
